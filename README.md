@@ -17,4 +17,12 @@
 
 ### How to run this project:
   - Clone the repository ``` git@github.com:Katha-Sikdar/Webautomation---SmartCarePro-by-using-and-JUnitSelenium-java-.git ```
+  - Run AutomateSmartCarePro.java class file.
+
+### Live Demo - 
+
+
+https://github.com/Katha-Sikdar/Webautomation---SmartCarePro-by-using-and-JUnitSelenium-java-/assets/82141562/02cca8e3-7416-4a26-964f-ce73c5e1f89e
+
+
     
