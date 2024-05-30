@@ -4,8 +4,7 @@
 
 ### Test case for this Suite: 
   - Here, I have conducted both manual and automation testing techniques to check the efficiency of the sites and tested critical functionalities such as patient registration, appointment scheduling, medical record retrieval etc. Also performed Load test to check its performnace under heavy load. All of the test cases,load tests data and detail documents outlining test plan and methodologies are attached here.
-    
-   Link:  https://drive.google.com/drive/u/0/folders/1W6PGIZsIp3K1K63ZYOSbaOBQuDc9QhEt
+    Link:  https://drive.google.com/drive/u/0/folders/1W6PGIZsIp3K1K63ZYOSbaOBQuDc9QhEt
 ----------------
 ### Prerequisites:
   - JDK
